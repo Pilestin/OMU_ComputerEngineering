@@ -1,6 +1,25 @@
 # OMU_ComputerEngineering
 Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği serüvenim. 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/56133248/218163625-e9285cb5-5cca-49b5-aeab-70833d56e540.png" style="width:250px;height:250px">
+</div>
+
+
+## İçerik : 
+Notlar : 
+ - 1. sınıf notları : !yakında
+ - 2. sınıf notları : !yakında
+ - 3. sınıf notları : !yakında
+ - 4. sınıf notları : !yakında
+
+
+
+Uygulamalar : 
+ - 2. sınıfta yapılanlar : !yakında
+ - 3. sınıfta yapılanlar : [4.sınıf](https://github.com/Pilestin/OMU_ComputerEngineering#4-s%C4%B1n%C4%B1f)
+ - 4. sınıfta yapılanlar : [3.sınıf](https://github.com/Pilestin/OMU_ComputerEngineering#3-s%C4%B1n%C4%B1f)
+
 
 
 ### 4. sınıf 
