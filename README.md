@@ -1,9 +1,15 @@
 # OMU_ComputerEngineering
-Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği serüvenim. 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/56133248/218163625-e9285cb5-5cca-49b5-aeab-70833d56e540.png" style="width:250px;height:250px">
 </div>
+
+<br>
+
+Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği serüvenim. 4 yıl boyunca yapılan bazı projelere buradan ulaşabilirsiniz.
+Ayrıca derslerde alınan notlara da erişebilirsiniz.
+
+
 
 
 ## İçerik : 
