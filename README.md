@@ -23,8 +23,8 @@ Notlar :
 
 Uygulamalar : 
  - 2. sınıfta yapılanlar : !yakında
- - 3. sınıfta yapılanlar : [4.sınıf](https://github.com/Pilestin/OMU_ComputerEngineering#4-s%C4%B1n%C4%B1f)
- - 4. sınıfta yapılanlar : [3.sınıf](https://github.com/Pilestin/OMU_ComputerEngineering#3-s%C4%B1n%C4%B1f)
+ - 3. sınıfta yapılanlar : [3.sınıf](https://github.com/Pilestin/OMU_ComputerEngineering#4-s%C4%B1n%C4%B1f)
+ - 4. sınıfta yapılanlar : [4.sınıf](https://github.com/Pilestin/OMU_ComputerEngineering#3-s%C4%B1n%C4%B1f)
 
 
 
